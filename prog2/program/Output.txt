@@ -1,0 +1,4 @@
+The ball traveled 333.28 feet
+The ball was in the air for 2.78 seconds
+The ball reached a max height of 32.21 feet
+The hit stayed within the field
